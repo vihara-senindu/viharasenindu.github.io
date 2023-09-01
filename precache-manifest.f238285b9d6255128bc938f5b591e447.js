@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "963af303c91c8ffa4357ec6e81c70d17",
+    "revision": "67f0808828b558ee8d1c1f143c2d62cc",
     "url": "/index.html"
   },
   {
-    "revision": "b0efeb94eb7daae99591",
+    "revision": "57599ede08ec8736b7d2",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "caf175bf3e343a2ee051",
+    "revision": "3f20aa5a6f26cc18d298",
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "1cd0ad7077046af22cd5",
-    "url": "/static/css/main.325a9cd9.chunk.css"
+    "revision": "c23742dd98d14a4cf4aa",
+    "url": "/static/css/main.81e410b8.chunk.css"
   },
   {
-    "revision": "8a92f96348543cb4a80e",
-    "url": "/static/js/2.398db563.chunk.js"
+    "revision": "18ead0c8605a27783ff7",
+    "url": "/static/js/2.a21501f4.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/static/js/2.398db563.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.a21501f4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b0efeb94eb7daae99591",
-    "url": "/static/js/3.c71e97f5.chunk.js"
+    "revision": "57599ede08ec8736b7d2",
+    "url": "/static/js/3.9a4cf3d3.chunk.js"
   },
   {
-    "revision": "caf175bf3e343a2ee051",
-    "url": "/static/js/4.6fe9fb3e.chunk.js"
+    "revision": "3f20aa5a6f26cc18d298",
+    "url": "/static/js/4.599f4e2f.chunk.js"
   },
   {
-    "revision": "1cd0ad7077046af22cd5",
-    "url": "/static/js/main.353dabff.chunk.js"
+    "revision": "c23742dd98d14a4cf4aa",
+    "url": "/static/js/main.f16aa515.chunk.js"
   },
   {
-    "revision": "98537d515a7ebfcef809",
-    "url": "/static/js/runtime-main.cb40bc7b.js"
+    "revision": "52634e9b8abf17556101",
+    "url": "/static/js/runtime-main.76a6b2b7.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -46,6 +46,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "be854ee1f2bc81d4b67214261d5a4b55",
+    "url": "/static/media/Python1.be854ee1.png"
+  },
+  {
+    "revision": "187c07f1d52127faf625b935f577dcac",
+    "url": "/static/media/Python2.187c07f1.png"
+  },
+  {
+    "revision": "4b9720f11b188e10c84ac7dee932a73b",
+    "url": "/static/media/Software.4b9720f1.png"
   },
   {
     "revision": "f02965d96c9e02967dd95f87fd0e9598",
@@ -96,11 +108,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/talksCardBack.13780cdd.svg"
   },
   {
-    "revision": "b59c78881c8af67798342ce45cdee98b",
-    "url": "/static/media/uom.b59c7888.png"
-  },
-  {
     "revision": "dbd41a00e3b43e027ed6eaab903de3d1",
     "url": "/static/media/vihara.dbd41a00.png"
+  },
+  {
+    "revision": "baf940e750710b2a5331de81bfc5f785",
+    "url": "/static/media/web1.baf940e7.png"
+  },
+  {
+    "revision": "18d2cbdcf75e6f2c2538cf844034949d",
+    "url": "/static/media/web2.18d2cbdc.png"
+  },
+  {
+    "revision": "4448e42e69fd1625dd6a344a9f3dd7a9",
+    "url": "/static/media/web3.4448e42e.png"
   }
 ]);
